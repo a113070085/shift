@@ -1,0 +1,10 @@
+{
+  "name": "Remix: Remix: 校園智慧穿搭顧問",
+  "description": "專為大學生設計的 AI 穿搭顧問，結合氣象與課表推薦、風格缺口分析、電商一鍵導入與校園二手轉賣功能，完美解決早八決策疲勞與衣物閒置問題。",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
